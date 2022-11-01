@@ -1,0 +1,280 @@
+.header .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.header
+{
+	height:340px;
+	background-color:grey;
+}
+.header .header-fc
+{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+.header .header-fc .boxa
+{
+	height:50px;
+	width:465px;
+	background-color:white;
+	margin-top:20px;
+}
+.header .header-fc .boxb
+{
+	height:50px;
+	width:230px;
+	background-color:white;
+	margin-top:20px;
+}
+.header .header-fc .boxc
+{
+	height:86px;
+	width:480px;
+	background-color:white;
+	margin-top:120px;
+}
+.header .header-fc .boxd
+{
+	height:86px;
+	width:420px;
+	background-color:white;
+	margin-top:120px;
+}
+.image .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.image
+{
+	height:880px;
+	background-color:grey;
+}
+.image .image-fc
+{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+.image .image-fc .boxa
+{
+	height:360px;
+	width:354px;
+	background-color:white;
+	margin-top:40px;
+}
+.image .image-fc .boxb
+{
+	height:360px;
+	width:354px;
+	background-color:white;
+	margin-top:40px;
+}
+.image .image-fc .boxc
+{
+	height:360px;
+	width:354px;
+	background-color:white;
+	margin-top:40px;
+}
+.image .image-fc .boxd
+{
+	height:360px;
+	width:354px;
+	background-color:white;
+	margin-top:20px;
+}
+.image .image-fc .boxe
+{
+	height:360px;
+	width:354px;
+	background-color:white;
+	margin-top:20px;
+}
+.image .image-fc .boxf
+{
+	height:360px;
+	width:354px;
+	background-color:white;
+	margin-top:20px;
+}
+.client .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.client
+{
+	height:500px;
+	background-color:blue;
+}
+.client .client-fc
+{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+.client .client-fc .text
+{
+	height:110px;
+	width:100%;
+	background-color:white;
+	margin-top:100px;
+}
+.client .client-fc .boxa
+{
+	height:60px;
+	width:145px;
+	background-color:white;
+		margin-top:50px;
+}
+.client .client-fc .boxb
+{
+	height:60px;
+	width:145px;
+	background-color:white;
+		margin-top:50px;
+}
+.client .client-fc .boxc
+{
+	height:60px;
+	width:145px;
+	background-color:white;
+		margin-top:50px;
+}
+.client .client-fc .boxd
+{
+	height:60px;
+	width:145px;
+	background-color:white;
+		margin-top:50px;
+}
+.client .client-fc .boxe
+{
+	height:60px;
+	width:145px;
+	background-color:white;
+		margin-top:50px;
+}
+.client .client-fc .boxf
+{
+	height:60px;
+	width:145px;
+	background-color:white;
+		margin-top:50px;
+}
+
+
+.service .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.service
+{
+	height:573px;
+	background-color:red;
+}
+.service .service-fc
+{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+.service .service-fc .text
+{
+	height:110px;
+	width:100%;
+	background-color:white;
+	
+}
+.service .service-fc .boxa
+{
+	height:370px;
+	width:245px;
+	background-color:blue;
+	
+}
+.service .service-fc .boxb
+{
+	height:370px;
+	width:245px;
+	background-color:blue;
+	
+}
+.service .service-fc .boxc
+{
+	height:370px;
+	width:245px;
+	background-color:blue;
+	
+}
+.service .service-fc .boxd
+{
+	height:370px;
+	width:245px;
+	background-color:blue;
+	
+}
+.people .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.people
+{
+	height:400px;
+	background-color:grey;
+}
+.people .people-fc
+{
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap;
+	
+}
+.people .people-fc .boxa
+{
+	height:130px;
+	width:135px;
+	background-color:white;
+	margin-top:50px;
+}
+.people .people-fc .text
+{
+	height:128px;
+	width:100%;
+	background-color:blue;
+	margin-top:50px;
+}
+.footer .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.footer 
+{
+	height:170px;
+	background-color:red;
+}
+.footer .footer-fc
+{
+	display:flex;
+	justify-content:space-between;
+}
+.footer .footer-fc .texta
+{
+	height:60px;
+	width:420px;
+	background-color:grey;
+	margin-top:50px;
+}
+.footer .footer-fc .textb
+{
+	height:60px;
+	width:235px;
+	background-color:grey;
+	margin-top:50px;
+}
